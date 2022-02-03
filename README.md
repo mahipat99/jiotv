@@ -13,7 +13,7 @@ If You Don't Know JioID and Pass then Simply click on autologin button
 2. Run the Command-
 
         pkg install wget -y
-        wget https://raw.githubusercontent.com/soal001/jiotv/master/android.sh
+        wget https://raw.githubusercontent.com/mahipat99/jiotv/master/android.sh
         sh android.sh
 
 3. Open Browser and go to the address displayed on termux. Eg. 192.168.0.10:8080
