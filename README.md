@@ -27,7 +27,7 @@ If You Don't Know JioID and Pass then Simply click on autologin button
 
 ####  For Windows PC-
 1. Install XAMPP
-2. Download this [Repo](https://github.com/soal001/jiotv/archive/refs/heads/main.zip "Repo") and extract it to c://xampp/htdocs folder
+2. Download this [Repo](https://github.com/mahipat99/jiotv/archive/refs/heads/main.zip "Repo") and extract it to c://xampp/htdocs folder
 3. Open Browser and go enter ip address. To get IP Address open task manager > performance> WiFi or Ethernet- Check the ip .Eg. 192.168.0.10
 4. If your PC is connected to jio network click on Try AutoLogin Button or else use your jio email-id and password to login
 6. Check your IP and port or your domain and click on generate playlist.
@@ -35,7 +35,7 @@ If You Don't Know JioID and Pass then Simply click on autologin button
 ####  For Linux -
 ##### Run The Following Commands
 
-    wget https://raw.githubusercontent.com/soal001/jiotv/master/jiotv.sh
+    wget https://raw.githubusercontent.com/mahipat99/jiotv/master/jiotv.sh
     sudo sh jiotv.sh
 
 1. Open Browser and go to the address displayed on teminal. Eg. 192.168.1.110:8080
